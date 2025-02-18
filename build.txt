@@ -1,0 +1,3 @@
+displayName = Auto Mod Sync
+author = MeLon
+version = 0.1
